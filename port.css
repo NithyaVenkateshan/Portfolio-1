@@ -148,21 +148,16 @@ a{
     mix-blend-mode:lighten;
 
 }
-iframe{
-    height: 1000px;
-    width: 700px;
 
-
-}
-.container{
+.skills{
     padding: 50px 9%;
-    text-align: center;
+    text-align: start;
 }
 h1{
     font-size: 2rem;
     margin-bottom: 30px;
     color:#fff;
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 .section{
@@ -203,7 +198,7 @@ ul li::before{
 .education{
     display:flex;
     flex-direction: column;
-    align-items:center;
+    align-items:start;
 
 }
 .education .edu-item{
@@ -219,7 +214,7 @@ ul li::before{
 }
 .education .edu-item p{
     font-size:1rem;
-    
+
 }
 
 
